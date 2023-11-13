@@ -141,3 +141,18 @@ My picture
 Отправить изменения на согласование разработчику
 ```sh
 ```
+
+## Change directory
+
+Top to up
+```sh
+cd ..
+```
+Go into folder [repo] 
+```sh
+cd <repo_name>
+```
+If MAC
+```sh
+dir
+```
